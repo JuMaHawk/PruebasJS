@@ -1,3 +1,4 @@
+
 listadoProductos = [];
 const listadoLS = JSON.parse(localStorage.getItem("listOfProduct"))
 console.log(listadoLS)
